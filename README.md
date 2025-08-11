@@ -549,7 +549,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
- 
+   git clone https://github.com/rahmasaber123/LIBRARAY_MANAGMENT_SYSTEM.git
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
