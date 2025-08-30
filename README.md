@@ -1,6 +1,6 @@
-# 📚 Library Management System  
+#  Library Management System  
 
-## 📌 Project Overview  
+##  Project Overview  
 The **Library Management System** is a SQL-based project designed to efficiently manage a library’s operations.  
 It includes **database design, data manipulation, advanced queries, and reporting**, demonstrating practical database management and SQL skills.  
 
@@ -8,7 +8,7 @@ It includes **database design, data manipulation, advanced queries, and reportin
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 
 1. **Database Setup**: Create and populate the database with tables for branches, employees, members, books, issue status, and return status.  
 2. **CRUD Operations**: Perform Create, Read, Update, and Delete operations.  
@@ -18,7 +18,7 @@ It includes **database design, data manipulation, advanced queries, and reportin
 
 ---
 
-## 🏗️ Project Structure  
+## 🏗 Project Structure  
 
 ### 1. Database Setup  
 - Created a database named `LIBRARY_MANAGEMENT_SYSTEM`.  
@@ -42,7 +42,7 @@ It includes **database design, data manipulation, advanced queries, and reportin
 
 ---
 
-## 📊 Key Insights  
+##  Key Insights  
 
 - **Members with small families of books borrowed frequently** tended to return more on time.  
 - **Revenue generation varied across categories**, with classics and high-demand books performing well.  
@@ -55,7 +55,7 @@ It includes **database design, data manipulation, advanced queries, and reportin
 sh
    git clone https://github.com/rahmasaber123/LIBRARAY_MANAGMENT_SYSTEM.git
 
-## 🚀 How to Use  
+##  How to Use  
 1. Clone this repository to your local machine.  
 2. Set up the database using the provided SQL scripts.  
 3. Run the queries to analyze and generate reports.  
@@ -63,7 +63,7 @@ sh
 
 ---
 
-## 👩‍💻 Author  
+##  Author  
 **RAHMA SABER ABBAS**  
 - 📧 Email: rahmasaberabbas@gmail.com  
 
