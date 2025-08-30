@@ -18,7 +18,7 @@ It includes **database design, data manipulation, advanced queries, and reportin
 
 ---
 
-## 🏗 Project Structure  
+##  Project Structure  
 
 ### 1. Database Setup  
 - Created a database named `LIBRARY_MANAGEMENT_SYSTEM`.  
