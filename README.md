@@ -51,11 +51,21 @@ It includes **database design, data manipulation, advanced queries, and reportin
 
 ---
 
-## 🚀 How to Use  
-
-1. **Clone the Repository**:  
-   ```sh
+## Conclusion This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis. ## How to Use 1. **Clone the Repository**: Clone this repository to your local machine.
+sh
    git clone https://github.com/rahmasaber123/LIBRARAY_MANAGMENT_SYSTEM.git
+
+## 🚀 How to Use  
+1. Clone this repository to your local machine.  
+2. Set up the database using the provided SQL scripts.  
+3. Run the queries to analyze and generate reports.  
+4. Modify queries to explore additional scenarios or insights.  
+
+---
+
+## 👩‍💻 Author  
+**RAHMA SABER ABBAS**  
+- 📧 Email: rahmasaberabbas@gmail.com  
 
 
 
